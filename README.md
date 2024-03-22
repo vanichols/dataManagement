@@ -1,5 +1,5 @@
 # dataManagement
-contains files from presentations about data management
+contains cheat sheet on connecting RStudio and github, also files from presentations about data management
 
 Currently includes:
 - a presentation about how to conceptually separate data creation from data analysis
